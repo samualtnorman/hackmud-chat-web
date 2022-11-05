@@ -22,6 +22,10 @@ export default function Root() {
 				</Suspense>
 
 				<Scripts />
+
+				<div class="bg-red-400">
+					<a href="https://github.com/samualtnorman/hackmud-chat-web">Open Source</a>
+				</div>
 			</Body>
 		</Html>
 	)
